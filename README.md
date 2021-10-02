@@ -1,2 +1,1 @@
-# statisticianwithR_DC
-DataCamp specialization - Statistician with R
+# DataCamp specialization - Statistician with R
